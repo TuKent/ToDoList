@@ -1,9 +1,7 @@
-// import logo from './logo.svg';
-// import './App.css';
-import SinglePage from "./scenes/main-page/single-page";
+import ToDoList from "./scenes/todo-list";
 function App() {
   return (
-    <SinglePage></SinglePage>
+    <ToDoList></ToDoList>
   );
 }
 
